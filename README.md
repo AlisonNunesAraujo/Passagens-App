@@ -11,6 +11,6 @@
 
 #### git clone (url do repo) dentro de alguma pasta do seu gosto
 
-### npm install
+#### npm install
 
-### npm start - Para iniciar o App
+#### npm start - Para iniciar o App
