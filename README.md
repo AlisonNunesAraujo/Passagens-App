@@ -9,7 +9,7 @@
 
 #### Intalar o NodeJs
 
-#### git clone (url do repo) dentro de alguma pasta do seu gosto
+#### git clone https://github.com/AlisonNunesAraujo/Passagens-App.git   (dentro de alguma pasta do seu gosto)
 
 #### npm install
 
